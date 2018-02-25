@@ -1,0 +1,10 @@
+C:\Users\Robot007\projects\drawRectangle\bin\Debug\netcoreapp2.0\drawRectangle.deps.json
+C:\Users\Robot007\projects\drawRectangle\bin\Debug\netcoreapp2.0\drawRectangle.runtimeconfig.json
+C:\Users\Robot007\projects\drawRectangle\bin\Debug\netcoreapp2.0\drawRectangle.runtimeconfig.dev.json
+C:\Users\Robot007\projects\drawRectangle\bin\Debug\netcoreapp2.0\drawRectangle.dll
+C:\Users\Robot007\projects\drawRectangle\bin\Debug\netcoreapp2.0\drawRectangle.pdb
+C:\Users\Robot007\projects\drawRectangle\obj\Debug\netcoreapp2.0\drawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Robot007\projects\drawRectangle\obj\Debug\netcoreapp2.0\drawRectangle.AssemblyInfoInputs.cache
+C:\Users\Robot007\projects\drawRectangle\obj\Debug\netcoreapp2.0\drawRectangle.AssemblyInfo.cs
+C:\Users\Robot007\projects\drawRectangle\obj\Debug\netcoreapp2.0\drawRectangle.dll
+C:\Users\Robot007\projects\drawRectangle\obj\Debug\netcoreapp2.0\drawRectangle.pdb
